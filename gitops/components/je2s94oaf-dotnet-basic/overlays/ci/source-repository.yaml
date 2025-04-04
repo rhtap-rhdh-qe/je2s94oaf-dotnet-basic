@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: je2s94oaf-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/je2s94oaf-dotnet-basic
